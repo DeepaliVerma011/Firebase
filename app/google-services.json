@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390863967717",
+    "project_id": "cbfirebase-44747",
+    "storage_bucket": "cbfirebase-44747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390863967717:android:adda30a42e053d53c84b0c",
+        "android_client_info": {
+          "package_name": "com.deepaliverma.cbfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390863967717-jeb6akomqg5j7igr93sbak3uul9sa9e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9MS-YXorQ22Tygfq2UWaLTkBrveHbjB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390863967717-jeb6akomqg5j7igr93sbak3uul9sa9e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
